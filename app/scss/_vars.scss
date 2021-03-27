@@ -1,0 +1,50 @@
+$color-1: #436372;
+$color-2: #edf1f4;
+$color-3: #fcd7b6;
+$color-4: #a3bbc8;
+$color-5: #243f4d;
+$color-6: #585858;
+$color-7: #191919;
+$color-8: #8b8b8b;
+$color-9: #a3bac7;
+$color-10: #1a1a1a;
+$color-11: #f8f8f8;
+$color-12: #feefe2;
+$color-13: #262626;
+$color-14: #222933;
+$color-15: #fef7f0;
+$color-16: #1f2044;
+$color-17: #7b7b7b;
+
+
+
+
+%rubik-400 {
+	font-family: 'Rubik-Regular', sans-serif;
+	font-weight: 400;
+}
+
+%rubik-500 {
+	font-family: 'Rubik-Medium', sans-serif;
+	font-weight: 500;
+}
+
+%dmsans-400 {
+	font-family: 'DMSans-Regular', sans-serif;
+	font-weight: 400;
+}
+
+%dmsans-500 {
+	font-family: 'DMSans-Medium', sans-serif;
+	font-weight: 500;
+}
+
+%dmsans-700 {
+	font-family: 'DMSans-Bold', sans-serif;
+	font-weight: 600;
+}
+
+%poppins-700 {
+	font-family: 'Poppins-Bold', sans-serif;
+	font-weight: 700;
+}
